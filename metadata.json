@@ -1,0 +1,6 @@
+{
+  "name": "ReunionSpace",
+  "description": "A private, student-only futuristic digital yearbook and class dashboard hybrid with glassmorphism cards and soft neon accents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
